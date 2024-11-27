@@ -1,0 +1,1 @@
+# awsclass6gitops
